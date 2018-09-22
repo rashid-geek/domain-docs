@@ -192,7 +192,7 @@ Back-office systems validate orders, route them to the exchange(s), receive mess
 
 The core exchange system is the trading platform that accepts orders from members, displays the price quotes and trades, matches buy and sell orders dynamically to fill as many orders as possible and sends status messages and trade notifications to the parties involved in each trade. In addition, exchanges need systems to monitor the transactions, generate reports on transactions, keep track of member accounts, etc.
 
-**Portfolio Management S****ystems**
+**Portfolio Management Systems**
 
 These systems allow the investment managers to choose the instruments to invest in, based on the requirements or inputs such as amount to be invested, expected returns, duration (or tenure) of investment, risk tolerance etc. and analysis of price and other data on the instruments and issuers. The term “portfolio” refers to the basket of investments owned by an investor. A portfolio of investments allows one to diversify risks over a limited number of instruments and issuers.
 
@@ -200,7 +200,7 @@ These systems allow the investment managers to choose the instruments to invest 
 
 The accounting systems take care of present value calculations, profit & loss etc. - of investments and funds and not the financial accounts of the firms.
 
-**Financial A****ccounting**
+**Financial Accounting**
 
 Why do we need Accounting and Financial Statements? For the below main reasons:
 
